@@ -31,3 +31,8 @@ def first_element_with_array_methods(array)
   first_country = array.first
   return first_country
 end
+
+def last_element_with_array_methods(array)
+  last_country = array.last
+  return last_country
+end
