@@ -11,3 +11,8 @@ end
 def indexing(array)
   array[0]
 end
+
+def first_element(array)
+  my_first_element = array[0]
+  return my_first_element
+end
