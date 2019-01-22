@@ -8,6 +8,6 @@ def array_with_two_elements
   return twoElements
 end
 
-def first_element
-  
+def indexing(array)
+  array[0]
 end
